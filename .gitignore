@@ -1,0 +1,8 @@
+*.o
+*.out
+*.dSYM/
+*.zip
+.DS_Store
+build/
+a.out
+jolly_banker
